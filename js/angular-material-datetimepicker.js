@@ -907,4 +907,4 @@
         }
       }]);
 
-})(moment);
+})(window.moment);

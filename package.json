@@ -14,7 +14,7 @@
     "web"
   ],
   "homepage": "http://logbon72.github.io/angular-material-datetimepicker/",
-  "main": "js/angular-material-datetimepicker.js",
+  "main": "index.js",
   "ignore": [
     "/.*",
     "_config.yml",
